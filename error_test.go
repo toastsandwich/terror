@@ -1,4 +1,4 @@
-package error
+package terror
 
 import (
 	"errors"
